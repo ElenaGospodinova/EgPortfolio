@@ -1100,7 +1100,13 @@ header{
     display: inline-block;
     float: left;
 }
-
+.nextjs-icon {
+    background-image: url('../img/typeScript.jpg');
+  }
+  
+  .typescript-icon {
+    background-image: url('../img/typeScript.jpg');
+  }
 
 /***********************************/
 /*  PORTFOLIO CSS                   /
